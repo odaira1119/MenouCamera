@@ -1,0 +1,78 @@
+### Visual Studio ###
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+### Build results ###
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+artifacts/
+
+### NuGet ###
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+### Rider / ReSharper ###
+.idea/
+*.DotSettings.user
+
+### ASP.NET / dotnet ###
+project.lock.json
+project.fragment.lock.json
+artifacts/
+Properties/launchSettings.json
+
+### Publish profile ###
+*.pubxml
+*.pubxml.user
+
+### Azure ###
+.publishsettings
+
+### Logs ###
+*.log
+
+### Generated files ###
+Generated/
+ServiceReferences/
+Connected Services/
+Generated Files/
+
+### Test ###
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+### Cache ###
+*_i.c
+*_p.c
+*.cache
+*.sqlite
+*.db
+*.pdb
+*.mdb
+
+### Temporary ###
+*.tmp
+*.temp
+~$*
+*.bak
+
+### Ignore environment variables / secrets ###
+*.env
+appsettings.Development.json
+secrets.json
+
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
