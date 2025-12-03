@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenouCamera")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf4c183597f9c39a64f9dafa0693fb4e0173463")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenouCamera")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenouCamera")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

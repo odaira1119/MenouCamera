@@ -1,96 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\",
+  "WorkspaceRootPath": "D:\\MyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\commands\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\commands\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\menoucamera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\menoucamera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\abstractions\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\abstractions\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\core\\imagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\imagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\core\\imagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\imagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\core\\capturesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\capturesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\implementations\\wpffiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\wpffiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\viewmodels\\imagerecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\imagerecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\viewmodels\\utils\\imagesourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\utils\\imagesourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\utils\\imageformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\utils\\imageformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\implementations\\filesystemimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\filesystemimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\implementations\\opencvthumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\opencvthumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\implementations\\opencvcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\implementations\\opencvcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\opencvcameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\abstractions\\iimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\utils\\fpslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\utils\\fpslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\core\\capturesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\capturesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\abstractions\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\abstractions\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\utils\\rotatepurebenchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\utils\\rotatepurebenchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\viewmodels\\imagerecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\imagerecordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\utils\\imageformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\utils\\imageformatextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\utils\\rotatepureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\utils\\rotatepureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\commands\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\commands\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\menoucamera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\menoucamera.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\core\\imagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\imagerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\core\\imagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\core\\imagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\implementations\\wpffiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\wpffiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\viewmodels\\utils\\imagesourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\viewmodels\\utils\\imagesourcefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\implementations\\filesystemimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\filesystemimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\implementations\\opencvthumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\implementations\\opencvthumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\abstractions\\iimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\abstractions\\iimagestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\abstractions\\ifiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\abstractions\\ifiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\abstractions\\ifiledialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\models\\services\\abstractions\\ithumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\models\\services\\abstractions\\ithumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\models\\services\\abstractions\\ithumbnailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|c:\\users\\v020f\\source\\repos\\menoucamera\\menoucamera\\menoucamera.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|d:\\myapp\\menoucamera\\menoucamera.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{FF959D6B-3786-497C-90FF-3956A019BC40}|MenouCamera\\MenouCamera.csproj|solutionrelative:menoucamera\\menoucamera.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -101,41 +119,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "FpsLogger.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Utils\\FpsLogger.cs",
+              "RelativeDocumentMoniker": "MenouCamera\\Utils\\FpsLogger.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Utils\\FpsLogger.cs",
+              "RelativeToolTip": "MenouCamera\\Utils\\FpsLogger.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:14:42.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-05T22:58:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP0UAAAAAAAAAAAEwBUVAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-04T15:30:40.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RotatePureResult.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Utils\\RotatePureResult.cs",
+              "RelativeDocumentMoniker": "MenouCamera\\Utils\\RotatePureResult.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Utils\\RotatePureResult.cs",
+              "RelativeToolTip": "MenouCamera\\Utils\\RotatePureResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:27:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RotatePureBenchmark.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Utils\\RotatePureBenchmark.cs",
+              "RelativeDocumentMoniker": "MenouCamera\\Utils\\RotatePureBenchmark.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Utils\\RotatePureBenchmark.cs",
+              "RelativeToolTip": "MenouCamera\\Utils\\RotatePureBenchmark.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:26:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MenouCamera\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "MenouCamera\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAMsAAAAAAAAAAAAAAKkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAH8CAAAAAAAAAAAiwLgCAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:52:46.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ICameraService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Abstractions\\ICameraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA5wBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T16:17:07.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "MenouCamera.csproj",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\MenouCamera.csproj",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\MenouCamera.csproj",
               "RelativeDocumentMoniker": "MenouCamera\\MenouCamera.csproj",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\MenouCamera.csproj",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\MenouCamera.csproj",
               "RelativeToolTip": "MenouCamera\\MenouCamera.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -144,76 +240,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "AsyncRelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Commands\\AsyncRelayCommand.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Commands\\AsyncRelayCommand.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Commands\\AsyncRelayCommand.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Commands\\AsyncRelayCommand.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Commands\\AsyncRelayCommand.cs",
               "RelativeToolTip": "MenouCamera\\Commands\\AsyncRelayCommand.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwF0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:39:28.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:39:28.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "ImageRecord.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\ImageRecord.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Core\\ImageRecord.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Core\\ImageRecord.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\ImageRecord.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Core\\ImageRecord.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Core\\ImageRecord.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAQwDYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T15:35:37.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T15:35:37.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "WpfFileDialogService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Implementations\\WpfFileDialogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:54:27.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:54:27.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ImageData.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Core\\ImageData.cs",
+              "RelativeDocumentMoniker": "MenouCamera\\Models\\Core\\ImageData.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Core\\ImageData.cs",
+              "RelativeToolTip": "MenouCamera\\Models\\Core\\ImageData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:15:34.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ImageData.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\ImageData.cs",
-              "RelativeDocumentMoniker": "MenouCamera\\Models\\Core\\ImageData.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\ImageData.cs",
-              "RelativeToolTip": "MenouCamera\\Models\\Core\\ImageData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:15:34.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CaptureSettings.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\CaptureSettings.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Core\\CaptureSettings.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Core\\CaptureSettings.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Core\\CaptureSettings.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Core\\CaptureSettings.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Core\\CaptureSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T16:12:46.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MenouCamera\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Views\\MainWindow.xaml",
               "RelativeToolTip": "MenouCamera\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-08-24T23:23:42.337Z",
@@ -221,24 +313,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Views\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Views\\MainWindow.xaml.cs",
               "RelativeToolTip": "MenouCamera\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T23:23:38.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\ViewModelBase.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "MenouCamera\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\ViewModels\\ViewModelBase.cs",
               "RelativeToolTip": "MenouCamera\\ViewModels\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,126 +341,118 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ImageRecordViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
               "RelativeDocumentMoniker": "MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
               "RelativeToolTip": "MenouCamera\\ViewModels\\ImageRecordViewModel.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAASwCgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:52:16.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:52:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImageSourceFactory.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
+              "RelativeDocumentMoniker": "MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
+              "RelativeToolTip": "MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:42:58.89Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ImageSourceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
-              "RelativeDocumentMoniker": "MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
-              "RelativeToolTip": "MenouCamera\\ViewModels\\Utils\\ImageSourceFactory.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T18:42:58.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "ImageFormatExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Utils\\ImageFormatExtensions.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Utils\\ImageFormatExtensions.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Utils\\ImageFormatExtensions.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Utils\\ImageFormatExtensions.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Utils\\ImageFormatExtensions.cs",
               "RelativeToolTip": "MenouCamera\\Utils\\ImageFormatExtensions.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:08:47.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T10:08:47.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "FileSystemImageStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Implementations\\FileSystemImageStorageService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:53:57.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:53:57.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "OpenCvThumbnailService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Implementations\\OpenCvThumbnailService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:53:18.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:53:18.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "OpenCvCameraService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Implementations\\OpenCvCameraService.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAQwGQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T16:29:10.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "IImageStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Abstractions\\IImageStorageService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:19:01.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:19:01.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "IFileDialogService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Abstractions\\IFileDialogService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:20:08.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:20:08.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "IThumbnailService.cs",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
               "RelativeDocumentMoniker": "MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
               "RelativeToolTip": "MenouCamera\\Models\\Services\\Abstractions\\IThumbnailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T16:18:31.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T16:18:31.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\App.xaml",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\App.xaml",
               "RelativeDocumentMoniker": "MenouCamera\\App.xaml",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\App.xaml",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\App.xaml",
               "RelativeToolTip": "MenouCamera\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-08-27T04:42:10.857Z",
@@ -376,24 +460,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAAA0AAAAAAAAAAAAlwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-08-27T21:37:19.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T21:37:19.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "MenouCamera",
-              "DocumentMoniker": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\MenouCamera.csproj",
+              "DocumentMoniker": "D:\\MyApp\\MenouCamera\\MenouCamera.csproj",
               "RelativeDocumentMoniker": "MenouCamera\\MenouCamera.csproj",
-              "ToolTip": "C:\\Users\\v020f\\source\\repos\\MenouCamera\\MenouCamera\\MenouCamera.csproj",
+              "ToolTip": "D:\\MyApp\\MenouCamera\\MenouCamera.csproj",
               "RelativeToolTip": "MenouCamera\\MenouCamera.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-27T20:05:23.378Z",
